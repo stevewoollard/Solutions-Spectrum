@@ -1,2 +1,2 @@
 # Solutions-Spectrum
-Used for all business related code
+Used for all business related code and docs
