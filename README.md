@@ -1,0 +1,2 @@
+# Solutions-Spectrum
+Used for all business related code
